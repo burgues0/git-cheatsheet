@@ -1,6 +1,6 @@
 # DIO Desafio "Primeiro Repositório"
 
-Repositório criado para a conclusão do desafio do curso "*Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso*" da plataforma D**Digital Innovation One**.
+Repositório criado para a conclusão do desafio do curso "*Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso*" da plataforma **Digital Innovation One**.
 
 Este curso foi feito como parte do Bootcamp **MRV Fullstack Developer**.
 
