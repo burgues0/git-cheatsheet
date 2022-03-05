@@ -11,7 +11,7 @@ git init
 #### Create a new local repo in a specific directory
 
 ```txt
-git init <directory>
+$ git init <directory>
 ```
 
 #### Clone existing repo
@@ -19,16 +19,14 @@ git init <directory>
 - HTTPS
 
 ```txt
-git clone https://github.com/user/repo.git
+$ git clone https://github.com/user/repo.git
 ```
 
 - SSH
 
 ```txt
-git clone ssh://user@domain.com/repo.git
+$ git clone ssh://user@domain.com/repo.git
 ```
-
-#### 
 
 ## Local Changes
 
