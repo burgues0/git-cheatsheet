@@ -1,18 +1,30 @@
-# DIO Desafio "Primeiro Repositório"
+# Git/GitHub Cheatsheet
 
-Repositório criado para a conclusão do desafio do curso "*Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso*" da plataforma ***Digital Innovation One***.
+## Create
 
-Este curso foi feito como parte do **Bootcamp MRV Fullstack Developer**.
+#### Create a new local repo
 
-## Lista de certificados
+- HTTPS
 
-Aqui está uma lista de todos os certificados da plataforma ***Digital Innovation One*** que adquiri até o momento durante o **Bootcamp MRV Fullstack Developer**:
+```txt
+git clone https://github.com/user/repo.git
+```
 
-- <a href="https://1drv.ms/b/s!At4CaAVhL3GcgZgxjxB6bLwlM7vD5w">*Boas-vindas ao Bootcamp MRV Fullstack Developer*</a> (1h)
-- <a href="https://1drv.ms/b/s!At4CaAVhL3GcgZgy058S90ojaoPYvA">*Lógica de Programação Essencial*</a> (4h)
-- <a href="https://1drv.ms/b/s!At4CaAVhL3GcgZgz1m2eQ3U0eq1kDA">*Aprenda o que são Estrutura de Dados e Algoritmos*</a> (2h)
-- <a href="https://1drv.ms/b/s!At4CaAVhL3GcgZg4mQEDRv1e5HBGIA">*Introdução ao Git e ao GitHub*</a> (5h)
-- <a href="https://1drv.ms/b/s!At4CaAVhL3GcgZg5M6mroXxqjYY-Vw">*Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso*</a> (1h)
+- SSH
 
-> Ao contrário do que diz o título do repositório, este não é meu primeiro repositório, mas utilizar o Git Bash e os seus diversos comandos para integrar os meus repositórios locais com os remotos foi algo novo e importantíssimo para o meu desenvolvimento como desenvolvedor.
+```txt
+git clone ssh://user@domain.com/repo.git
+```
 
+## Local Changes
+
+## Branching and Tags
+
+## Update and Publish
+
+## Merge and Rebase
+
+## Undo
+
+> The main purpose of this repository is to document the main Git CLI commands that I use throughout my projects, because I see myself forgeting some of the commands that I use most of the time.
+> I know that there are a lot of Git Cheatsheet pictures, websites, git repos, etc, but I decided to make my own repository because it's easier for me to search on my own profile than elsewhere on the internet.
