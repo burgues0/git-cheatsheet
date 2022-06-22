@@ -2,19 +2,19 @@
 
 ## Create
 
-### Create a new local repo
+- New local repo
 
-```txt
-$ git init
-```
 
-### Create a new local repo in a specific directory
+`$ git init`
+
+
+- New local repo in directory
 
 ```txt
 $ git init <directory>
 ```
 
-### Clone existing repo
+- Clone existing repo
 
 - HTTPS
 
