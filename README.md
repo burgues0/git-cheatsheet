@@ -4,9 +4,7 @@
 
 - New local repo
 
-
 `$ git init`
-
 
 - New local repo in directory
 
