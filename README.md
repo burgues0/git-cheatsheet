@@ -2,79 +2,54 @@
 
 ## Create
 
-- New local repo
+> New _local_ repository
 
 `$ git init`
 
-- New local repo in directory
+> New local repository in a specific directory
 
-```txt
-$ git init <directory>
-```
+`$ git init <directory>`
 
-- Clone existing repo
+> Clone an existing repository to local machine
 
-- HTTPS
-
-```txt
-$ git clone https://github.com/user/repo.git
-```
-
-- SSH
-
-```txt
-$ git clone ssh://user@domain.com/repo.git
-```
+|HTTPS          |SSH            |
+|:-------------:|:-------------:|
+|`$ git clone https://github.com/user/repo.git`| `$ git clone ssh://user@domain.com/repo.git` |
 
 ## Local Changes
 
-### Changed files in your working directory
+> Changed files in your working directory
 
-```txt
-$ git status
-```
+`$ git status`
 
-### Changes to tracked files
+> Changes to tracked files
 
-```txt
-$ git diff
-```
+`$ git diff`
 
-### Add all current changes to the next commit
+> Add all current changes to the next commit
 
-```txt
-$ git add .
-```
+`$ git add .`
 
-### Add some changes in <file> to the next commit
+> Add some changes in <file> to the next commit
 
-```txt
-$ git add -p <file>
-```
+`$ git add -p <file>`
 
-### Commit all local changes in tracked files
+> Commit all local changes in tracked files
 
-```txt
-$ git commit -a
-```
+`$ git commit -a`
 
-### Commit previously staged changes
+> Commit previously staged changes
 
-```txt
-$ git add -p <file>
-```
+`$ git add -p <file>`
 
-### Add some changes in to the next commit
+> Add some changes in to the next commit
 
-```txt
-$ git commit
-```
+`$ git commit`
 
-### Change the last commit
+> Change the last commit
 
-```txt
-$ git commit --amend
-```
+`$ git commit --amend`
+
 
 Don‘t amend published commits!
 ## Branching and Tags
