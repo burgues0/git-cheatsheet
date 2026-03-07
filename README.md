@@ -71,4 +71,4 @@
 |Download changes and directly merge/integrate into HEAD|`$ git pull <remote> <branch>`|
 |Publish local changes on a remote|`$ git push <remote> <branch>`|
 |Delete a branch on the remote|`$ git branch -dr <remote/branch>`|
-|Publish your tags|`$ git push --tags`|
+|Publish your tags |`$ git push --tags`|
